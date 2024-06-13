@@ -5,10 +5,11 @@
   -->
 <meta name='eaglercraft, eaglercraftx, eagler, eaglercraftx server, eaglercraft server' content='HTML, JavaScript, Shell, Batchfile'>
 
-# EaglercraftX 1.19 Server (DISCONTINUED) 
+# EaglercraftX 1.19 Server Codespace 
 [Demo Video](https://github.com/CaenJones/EaglercraftX-1.19-Server/assets/131218155/0ee532ab-46d3-4959-ac9a-860931ffd649)
 
 <p align="center">
+  credits to
  <a href="https://github.com/CaenJones/EaglercraftX-1.19-Server/blob/main/install.sh">
     <img src="https://github.com/garlontas/buttons/blob/main/buttons/200x59/linux-download_2.svg" alt="Description here" width="200" height="59">
  </a>
@@ -39,15 +40,11 @@ If you like this project and want to support it, please consider making a fork o
 ## Running the Server
 Please download the [installer script](https://github.com/CaenJones/EaglercraftX-1.19-Server/tree/main#eaglercraftx-119-server) for your appropriate operating system before procedding to this step.
 
-### Linux & MacOS
-- Start server: `./server/server.sh` (use `chmod +x` first)
-- Start bungeecord: `./bungee/bungee.sh` (use `chmod +x` first)
+# Open a Codespace and then enter in a bash file
+`cd server && sudo java -jar server.jar` then open anothe terminal and type
+`cd bungee && sudo java -jar bungee.jar`
 
-### Windows
-- Run `/server/server.bat` (in Eaglercraft server directory)
-- Run `/bungee/bungee.bat` (in Eaglercraft server directory) 
-
-Now forward ports 8081 and 25565, then access your server at `[server-ip:8081]`.
+Now forward ports 8081 and 25565, then access your server at `[Codespace-URL:8081]`.
 
 ## What to do if Your Server Crashes
 If your server is not starting after a crash, try deleting the `server/world/session.lock` file and restart it.
