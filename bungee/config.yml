@@ -16,8 +16,6 @@ permissions:
 timeout: 30000
 log_commands: false
 online_mode: false
-disabled_commands:
-- disabledcommandhere
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
@@ -39,13 +37,15 @@ listeners:
   max_players: 1
   tab_size: 60
   force_default_server: true
+prevent_proxy_connections: false
 remote_ping_timeout: 5000
 ip_forward: true
 network_compression_threshold: 256
 reject_transfers: false
-prevent_proxy_connections: false
-groups: {}
+disabled_commands:
+- disabledcommandhere
 connection_throttle: 4000
 stats: 614623bd-e602-4a2e-b09d-0acb68d88c3e
 connection_throttle_limit: 3
+groups: {}
 log_pings: true
