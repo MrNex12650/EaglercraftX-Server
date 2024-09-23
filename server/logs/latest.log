@@ -240,3 +240,42 @@
 [21:53:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
 [21:53:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: FORGE
 [21:53:32] [Netty Epoll Server IO #2/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[21:55:20] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 blaze_powder
+[21:55:23] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 blaze_powder
+[21:55:24] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 blaze_powder
+[21:55:38] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 nether_wart
+[21:55:39] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 nether_wart
+[21:56:16] [Server thread/INFO]: ThunderGod12650 issued server command: /give **
+[21:56:26] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 glowstone
+[21:56:27] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 glowstone
+[21:56:30] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 glowstone_dust
+[21:56:31] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 glowstone_dust
+[21:56:32] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 glowstone_dust
+[21:56:34] [Server thread/INFO]: ThunderGod12650 issued server command: /trash
+[21:56:44] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 water_bucket
+[21:56:47] [Server thread/INFO]: ThunderGod12650 issued server command: /trash
+[21:56:50] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 water_bucket 2
+[22:02:55] [Server thread/INFO]: ThunderGod12650 issued server command: /gamemode c
+[22:03:14] [Server thread/INFO]: ThunderGod12650 issued server command: /clearlag
+[22:03:17] [Server thread/INFO]: ThunderGod12650 issued server command: /clea
+[22:03:24] [Server thread/INFO]: ThunderGod12650 issued server command: /help clearlagg
+[22:03:26] [Server thread/INFO]: ThunderGod12650 issued server command: /help clearlag
+[22:03:29] [Server thread/INFO]: ThunderGod12650 issued server command: /lagg
+[22:03:37] [Server thread/INFO]: ThunderGod12650 issued server command: /lagg clear
+[22:03:50] [Server thread/INFO]: ThunderGod12650 issued server command: /lagg clear
+[22:04:29] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 brewing_Stand
+[22:07:12] [Server thread/INFO]: ThunderGod12650 issued server command: /give ThunderGod12650 elytra
+[22:07:12] [Server thread/INFO]: ThunderGod12650 has reached the goal [Sky's the Limit]
+[22:07:46] [Server thread/INFO]: ThunderGod12650 issued server command: /gamemode 0
+[22:07:56] [Server thread/INFO]: ThunderGod12650 lost connection: Disconnected
+[22:07:56] [Server thread/INFO]: ThunderGod12650 left the game
+[22:08:07] [User Authenticator #2/INFO]: UUID of player ThunderGod12650 is 81488dc6-9079-358e-8f47-3eb037efad7d
+[22:08:07] [Server thread/INFO]: ThunderGod12650 joined the game
+[22:08:07] [Server thread/INFO]: ThunderGod12650[/[0:0:0:0:0:0:0:1]:35466] logged in with entity id 1413 at ([world]92.57146494249281, 86.0, -153.61239066254757)
+[22:08:08] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[22:08:08] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[22:08:08] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: FML
+[22:08:08] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[22:08:08] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[22:08:08] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: FORGE
+[22:08:08] [Netty Epoll Server IO #3/WARN]: [ViaBackwards] Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8

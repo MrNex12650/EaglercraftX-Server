@@ -2287,3 +2287,11 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viaversion.util.Config.<init>(
 21:53:30 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:34716]: Logged in as 'ThunderGod12650'
 21:53:30 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
 21:53:30 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+22:07:56 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+22:07:56 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+22:07:56 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+22:08:07 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54896]: Connected via websocket
+22:08:07 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54896]: Origin header is null
+22:08:07 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:54896]: Logged in as 'ThunderGod12650'
+22:08:07 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+22:08:07 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
