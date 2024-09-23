@@ -35,4 +35,4 @@ world-border-particle: fireworksSpark
 enable-offhand: true
 #
 # Allows to define the offhand command
-offhand-command: /hand
+offhand-command: /offhand
