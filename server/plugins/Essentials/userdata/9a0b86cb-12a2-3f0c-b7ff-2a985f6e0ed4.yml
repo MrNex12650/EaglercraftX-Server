@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1727096327363
+  login: 1727096286896
+money: '0'
+last-account-name: Gamewinner1212
+logoutlocation:
+  world: eddc9eb2-e0dc-4c43-ad57-674dd686c3fd
+  world-name: world
+  x: 51.10451973361068
+  y: 76.0
+  z: -152.32040549276735
+  yaw: 122.79165649414062
+  pitch: 14.275501251220703

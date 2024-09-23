@@ -10,7 +10,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&f&k:&cMurphy-Lifesteal-Smp&f&k:'
+  - '&f&k:&cMurphy-Lifesteal-Smp-S1&f&k:'
   allow_motd: true
   allow_query: true
   request_motd_cache:

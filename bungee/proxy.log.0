@@ -1351,3 +1351,669 @@ java.lang.NoSuchMethodError: 'void com.viaversion.viaversion.util.Config.<init>(
 23:44:45 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
 23:44:45 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
 23:44:45 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:27:18 [INFO] Closing listener [id: 0x5305a907, L:/127.0.0.1:25577]
+00:27:18 [INFO] Closing pending connections
+00:27:18 [INFO] Disconnecting 0 connections
+00:27:18 [INFO] Disabling plugins
+00:27:18 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+00:27:18 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+00:27:18 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+00:27:20 [INFO] Closing IO threads
+00:27:36 [INFO] Using mbed TLS based native cipher.
+00:27:36 [INFO] Using zlib based native compressor.
+00:27:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+00:27:36 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:27:36 [INFO] Epoll is working, utilising it!
+00:27:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+00:27:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+00:27:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+00:27:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+00:27:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+00:27:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+00:27:36 [WARNING] [ViaVersion] ViaVersion does not work as intended across many different server versions, especially the more recent ones. Consider moving Via plugins to your backend server or switching to Velocity.
+00:27:37 [INFO] Loaded plugin ViaVersion version 4.10.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+00:27:37 [INFO] Loaded plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+00:27:37 [INFO] Loaded plugin ViaRewind version 4.0.0-SNAPSHOT by null
+00:27:37 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:37 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:37 [INFO] Loaded plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:37 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:37 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:37 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:37 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:37 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+00:27:37 [WARNING] :>  
+00:27:37 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+00:27:37 [WARNING] :>  
+00:27:37 [WARNING] :>  This plugin wasn't tested to be 'working'
+00:27:37 [WARNING] :>  with ANY version of BungeeCord (and forks)
+00:27:37 [WARNING] :>  apart from the versions listed below:
+00:27:37 [WARNING] :>  
+00:27:37 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:67c65e0:1828
+00:27:37 [WARNING] :>  - Waterfall: 1.20-R0.3-SNAPSHOT:da6aaf6:572
+00:27:37 [WARNING] :>  
+00:27:37 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+00:27:37 [WARNING] :>  
+00:27:37 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+00:27:37 [WARNING] :>  
+00:27:37 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+00:27:37 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+00:27:37 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+00:27:37 [INFO] Loaded plugin EaglercraftXBungee version 1.1.0 by lax1dude
+00:27:38 [WARNING] Forced host server pvp is not defined
+00:27:38 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+00:27:38 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.d0d0f229ae7bd645a0eb36ba9c42d141e2344d8c.cert
+00:27:38 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+00:27:38 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+00:27:39 [INFO] [ViaVersion] Loading block connection mappings ...
+00:27:39 [INFO] [ViaBackwards] Loading translations...
+00:27:39 [INFO] [ViaBackwards] Registering protocols...
+00:27:40 [WARNING] Exception encountered when loading plugin: ViaVersion
+java.lang.NoSuchMethodError: 'void com.viaversion.viaversion.util.Config.<init>(java.io.File, java.util.logging.Logger)'
+	at com.viaversion.viarewind.ViaRewindConfig.<init>(ViaRewindConfig.java:44)
+	at com.viaversion.viarewind.api.ViaRewindPlatform.init(ViaRewindPlatform.java:44)
+	at com.viaversion.viarewind.BungeePlugin.lambda$onLoad$0(BungeePlugin.java:30)
+	at com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:114)
+	at com.viaversion.viaversion.BungeePlugin.onEnable(BungeePlugin.java:93)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+00:27:40 [INFO] Enabled plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+00:27:40 [INFO] Enabled plugin ViaRewind version 4.0.0-SNAPSHOT by null
+00:27:40 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:40 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:40 [INFO] Enabled plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:40 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:40 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:40 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:40 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+00:27:40 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+00:27:40 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+00:27:40 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+00:27:40 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+00:27:40 [INFO] Enabled plugin EaglercraftXBungee version 1.1.0 by lax1dude
+00:27:40 [INFO] Listening on /127.0.0.1:25577
+00:27:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44872]: Connected via websocket
+00:27:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44872]: Origin header is null
+00:27:55 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:44872]: Logged in as 'ThunderGod12650'
+00:27:55 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+00:27:55 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+00:28:16 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+00:28:16 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+00:28:16 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:28:18 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:47986]: Connected via websocket
+00:28:18 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:47986]: Origin header is null
+00:28:19 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:47986]: Logged in as 'ThunderGod12650'
+00:28:19 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+00:28:19 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+00:28:25 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+00:28:25 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+00:28:25 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:52:52 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46276]: Connected via websocket
+00:52:52 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46276]: Origin header is null
+00:52:52 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:46276]: Logged in as 'ThunderGod12650'
+00:52:52 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+00:52:52 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+00:53:11 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+00:53:11 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+00:53:11 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+00:55:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49274]: Connected via websocket
+00:55:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49274]: Origin header is null
+00:55:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:49274]: Logged in as 'ThunderGod12650'
+00:55:45 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+00:55:45 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+00:56:59 [INFO] [ThunderGod12650] disconnected with: §fServer is restarting
+00:56:59 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+00:56:59 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+01:01:22 [INFO] Using mbed TLS based native cipher.
+01:01:23 [INFO] Using zlib based native compressor.
+01:01:23 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+01:01:23 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:01:23 [INFO] Epoll is working, utilising it!
+01:01:23 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+01:01:23 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+01:01:23 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+01:01:23 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+01:01:23 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+01:01:23 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+01:01:24 [WARNING] [ViaVersion] ViaVersion does not work as intended across many different server versions, especially the more recent ones. Consider moving Via plugins to your backend server or switching to Velocity.
+01:01:25 [INFO] Loaded plugin ViaVersion version 4.10.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+01:01:25 [INFO] Loaded plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+01:01:25 [INFO] Loaded plugin ViaRewind version 4.0.0-SNAPSHOT by null
+01:01:25 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:25 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:25 [INFO] Loaded plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:25 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:25 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:25 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:25 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:25 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:01:25 [WARNING] :>  
+01:01:25 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+01:01:25 [WARNING] :>  
+01:01:25 [WARNING] :>  This plugin wasn't tested to be 'working'
+01:01:25 [WARNING] :>  with ANY version of BungeeCord (and forks)
+01:01:25 [WARNING] :>  apart from the versions listed below:
+01:01:25 [WARNING] :>  
+01:01:25 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:67c65e0:1828
+01:01:25 [WARNING] :>  - Waterfall: 1.20-R0.3-SNAPSHOT:da6aaf6:572
+01:01:25 [WARNING] :>  
+01:01:25 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+01:01:25 [WARNING] :>  
+01:01:25 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+01:01:25 [WARNING] :>  
+01:01:25 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+01:01:25 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+01:01:28 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+01:01:28 [INFO] Loaded plugin EaglercraftXBungee version 1.1.0 by lax1dude
+01:01:29 [WARNING] Forced host server pvp is not defined
+01:01:29 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+01:01:30 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.d0d0f229ae7bd645a0eb36ba9c42d141e2344d8c.cert
+01:01:30 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+01:01:30 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+01:01:31 [INFO] [ViaVersion] Loading block connection mappings ...
+01:01:32 [INFO] [ViaBackwards] Loading translations...
+01:01:32 [INFO] [ViaBackwards] Registering protocols...
+01:01:34 [WARNING] Exception encountered when loading plugin: ViaVersion
+java.lang.NoSuchMethodError: 'void com.viaversion.viaversion.util.Config.<init>(java.io.File, java.util.logging.Logger)'
+	at com.viaversion.viarewind.ViaRewindConfig.<init>(ViaRewindConfig.java:44)
+	at com.viaversion.viarewind.api.ViaRewindPlatform.init(ViaRewindPlatform.java:44)
+	at com.viaversion.viarewind.BungeePlugin.lambda$onLoad$0(BungeePlugin.java:30)
+	at com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:114)
+	at com.viaversion.viaversion.BungeePlugin.onEnable(BungeePlugin.java:93)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+01:01:34 [INFO] Enabled plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+01:01:34 [INFO] Enabled plugin ViaRewind version 4.0.0-SNAPSHOT by null
+01:01:34 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:34 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:34 [INFO] Enabled plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:34 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:34 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:34 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:34 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+01:01:34 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+01:01:34 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+01:01:34 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+01:01:35 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+01:01:35 [INFO] Enabled plugin EaglercraftXBungee version 1.1.0 by lax1dude
+01:01:35 [INFO] Listening on /127.0.0.1:25577
+01:05:43 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:38946]: Connected via websocket
+01:05:43 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:38946]: Origin header is null
+01:05:43 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:38946]: Logged in as 'ThunderGod12650'
+01:05:43 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+01:05:43 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+01:21:00 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+01:21:00 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+01:21:00 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+02:16:30 [WARNING] [EaglercraftXBungee] Deleting stale certificate: $dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+02:16:30 [WARNING] [EaglercraftXBungee] Deleting stale certificate: $dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+02:16:30 [WARNING] [EaglercraftXBungee] Certificate was deleted: $dl.24a1bafc15c675276968d78cdcb55a04992bddb0.cert
+02:16:30 [WARNING] [EaglercraftXBungee] Certificate was deleted: $dl.2c63d6a9be9d273db57d50cb026093cb97ea6e54.cert
+12:55:16 [INFO] Using mbed TLS based native cipher.
+12:55:16 [INFO] Using zlib based native compressor.
+12:55:16 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+12:55:16 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:55:16 [INFO] Epoll is working, utilising it!
+12:55:16 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+12:55:16 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+12:55:16 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+12:55:16 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+12:55:16 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+12:55:16 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+12:55:16 [WARNING] [ViaVersion] ViaVersion does not work as intended across many different server versions, especially the more recent ones. Consider moving Via plugins to your backend server or switching to Velocity.
+12:55:17 [INFO] Loaded plugin ViaVersion version 4.10.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+12:55:17 [INFO] Loaded plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+12:55:17 [INFO] Loaded plugin ViaRewind version 4.0.0-SNAPSHOT by null
+12:55:17 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:17 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:17 [INFO] Loaded plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:17 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:17 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:17 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:17 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:17 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+12:55:17 [WARNING] :>  
+12:55:17 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+12:55:17 [WARNING] :>  
+12:55:17 [WARNING] :>  This plugin wasn't tested to be 'working'
+12:55:17 [WARNING] :>  with ANY version of BungeeCord (and forks)
+12:55:17 [WARNING] :>  apart from the versions listed below:
+12:55:17 [WARNING] :>  
+12:55:17 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:67c65e0:1828
+12:55:17 [WARNING] :>  - Waterfall: 1.20-R0.3-SNAPSHOT:da6aaf6:572
+12:55:17 [WARNING] :>  
+12:55:17 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+12:55:17 [WARNING] :>  
+12:55:17 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+12:55:17 [WARNING] :>  
+12:55:17 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+12:55:17 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+12:55:18 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+12:55:18 [INFO] Loaded plugin EaglercraftXBungee version 1.1.0 by lax1dude
+12:55:18 [WARNING] Forced host server pvp is not defined
+12:55:18 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:55:19 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.d0d0f229ae7bd645a0eb36ba9c42d141e2344d8c.cert
+12:55:19 [INFO] [ViaVersion] Loading block connection mappings ...
+12:55:20 [INFO] [ViaBackwards] Loading translations...
+12:55:20 [INFO] [ViaBackwards] Registering protocols...
+12:55:20 [WARNING] Exception encountered when loading plugin: ViaVersion
+java.lang.NoSuchMethodError: 'void com.viaversion.viaversion.util.Config.<init>(java.io.File, java.util.logging.Logger)'
+	at com.viaversion.viarewind.ViaRewindConfig.<init>(ViaRewindConfig.java:44)
+	at com.viaversion.viarewind.api.ViaRewindPlatform.init(ViaRewindPlatform.java:44)
+	at com.viaversion.viarewind.BungeePlugin.lambda$onLoad$0(BungeePlugin.java:30)
+	at com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:114)
+	at com.viaversion.viaversion.BungeePlugin.onEnable(BungeePlugin.java:93)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+12:55:20 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+12:55:20 [INFO] Enabled plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+12:55:20 [INFO] Enabled plugin ViaRewind version 4.0.0-SNAPSHOT by null
+12:55:20 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:20 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:20 [INFO] Enabled plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:20 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:20 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:20 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:20 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+12:55:20 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+12:55:21 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+12:55:21 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+12:55:21 [INFO] Enabled plugin EaglercraftXBungee version 1.1.0 by lax1dude
+12:55:21 [INFO] Listening on /127.0.0.1:25577
+12:57:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51372]: Connected via websocket
+12:57:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51372]: Origin header is null
+12:57:44 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51372]: Logged in as 'ThunderGod12650'
+12:57:44 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+12:57:44 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+12:57:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51378]: Connected via websocket
+12:57:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51378]: Origin header is null
+12:57:45 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51378]: Logged in as 'Gamewinner1212'
+12:57:45 [INFO] [Gamewinner1212] -> UpstreamBridge has connected
+12:57:45 [INFO] [Gamewinner1212] <-> ServerConnector [lobby] has connected
+12:57:46 [SEVERE] [Gamewinner1212] <-> DownstreamBridge <-> [lobby] - encountered exception
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null
+	at net.md_5.bungee.protocol.DefinedPacket.writeUUID(DefinedPacket.java:314)
+	at net.md_5.bungee.entitymap.EntityMap_1_8.rewriteClientbound(EntityMap_1_8.java:130)
+	at net.md_5.bungee.entitymap.EntityMap.rewriteClientbound(EntityMap.java:132)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:144)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:135)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:455)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:801)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+12:57:46 [INFO] [Gamewinner1212] disconnected with: §f§fNullPointerException : Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null @ net.md_5.bungee.protocol.DefinedPacket:314
+12:57:46 [INFO] [Gamewinner1212] -> UpstreamBridge has disconnected
+12:57:46 [INFO] [Gamewinner1212] <-> DownstreamBridge <-> [lobby] has disconnected
+12:57:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45638]: Connected via websocket
+12:57:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45638]: Origin header is null
+12:57:53 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45638]: Logged in as 'Gamewinner1212'
+12:57:53 [INFO] [Gamewinner1212] -> UpstreamBridge has connected
+12:57:53 [INFO] [Gamewinner1212] <-> ServerConnector [lobby] has connected
+12:57:54 [SEVERE] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] - encountered exception
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null
+	at net.md_5.bungee.protocol.DefinedPacket.writeUUID(DefinedPacket.java:314)
+	at net.md_5.bungee.entitymap.EntityMap_1_8.rewriteClientbound(EntityMap_1_8.java:130)
+	at net.md_5.bungee.entitymap.EntityMap.rewriteClientbound(EntityMap.java:132)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:144)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:135)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:455)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:801)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+12:57:54 [INFO] [ThunderGod12650] disconnected with: §f§fNullPointerException : Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null @ net.md_5.bungee.protocol.DefinedPacket:314
+12:57:54 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+12:57:54 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+12:58:02 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59620]: Connected via websocket
+12:58:02 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59620]: Origin header is null
+12:58:02 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59620]: Logged in as 'ThunderGod12650'
+12:58:02 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+12:58:02 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+12:58:02 [SEVERE] [Gamewinner1212] <-> DownstreamBridge <-> [lobby] - encountered exception
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null
+	at net.md_5.bungee.protocol.DefinedPacket.writeUUID(DefinedPacket.java:314)
+	at net.md_5.bungee.entitymap.EntityMap_1_8.rewriteClientbound(EntityMap_1_8.java:130)
+	at net.md_5.bungee.entitymap.EntityMap.rewriteClientbound(EntityMap.java:132)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:144)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:135)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:455)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:801)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+12:58:02 [INFO] [Gamewinner1212] disconnected with: §f§fNullPointerException : Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null @ net.md_5.bungee.protocol.DefinedPacket:314
+12:58:02 [INFO] [Gamewinner1212] -> UpstreamBridge has disconnected
+12:58:02 [INFO] [Gamewinner1212] <-> DownstreamBridge <-> [lobby] has disconnected
+12:58:06 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59634]: Connected via websocket
+12:58:06 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59634]: Origin header is null
+12:58:06 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:59634]: Logged in as 'Gamewinner1212'
+12:58:06 [INFO] [Gamewinner1212] -> UpstreamBridge has connected
+12:58:06 [INFO] [Gamewinner1212] <-> ServerConnector [lobby] has connected
+12:58:06 [SEVERE] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] - encountered exception
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null
+	at net.md_5.bungee.protocol.DefinedPacket.writeUUID(DefinedPacket.java:314)
+	at net.md_5.bungee.entitymap.EntityMap_1_8.rewriteClientbound(EntityMap_1_8.java:130)
+	at net.md_5.bungee.entitymap.EntityMap.rewriteClientbound(EntityMap.java:132)
+	at net.md_5.bungee.connection.DownstreamBridge.handle(DownstreamBridge.java:144)
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:135)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:289)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:333)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:455)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:801)
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+12:58:06 [INFO] [ThunderGod12650] disconnected with: §f§fNullPointerException : Cannot invoke "java.util.UUID.getMostSignificantBits()" because "value" is null @ net.md_5.bungee.protocol.DefinedPacket:314
+12:58:06 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+12:58:06 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+12:58:47 [INFO] [Gamewinner1212] disconnected with: §fServer is restarting
+12:58:47 [INFO] [Gamewinner1212] -> UpstreamBridge has disconnected
+12:58:47 [INFO] [Gamewinner1212] <-> DownstreamBridge <-> [lobby] has disconnected
+12:59:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:36796]: Connected via websocket
+12:59:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:36796]: Origin header is null
+12:59:41 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:36796]: Logged in as 'ThunderGod12650'
+12:59:41 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+12:59:41 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+12:59:48 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+12:59:48 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+12:59:48 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+13:05:02 [INFO] Closing listener [id: 0x4ed6fd0a, L:/127.0.0.1:25577]
+13:05:02 [INFO] Closing pending connections
+13:05:02 [INFO] Disconnecting 0 connections
+13:05:03 [INFO] Disabling plugins
+13:05:03 [INFO] [EaglercraftXBungee] Eaglercraft listener closed: /0.0.0.0:8081
+13:05:03 [INFO] [EaglercraftXBungee] Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+13:05:03 [INFO] [EaglercraftXBungee] Stopping skin cache HTTP client...
+13:05:05 [INFO] Closing IO threads
+13:05:22 [INFO] Using mbed TLS based native cipher.
+13:05:22 [INFO] Using zlib based native compressor.
+13:05:22 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+13:05:22 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+13:05:23 [INFO] Epoll is working, utilising it!
+13:05:23 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+13:05:23 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+13:05:23 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+13:05:23 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+13:05:23 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+13:05:23 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+13:05:23 [WARNING] [ViaVersion] ViaVersion does not work as intended across many different server versions, especially the more recent ones. Consider moving Via plugins to your backend server or switching to Velocity.
+13:05:23 [INFO] Loaded plugin ViaVersion version 4.10.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+13:05:23 [INFO] Loaded plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+13:05:23 [INFO] Loaded plugin ViaRewind version 4.0.0-SNAPSHOT by null
+13:05:23 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:23 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:23 [INFO] Loaded plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:23 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:23 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:23 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:23 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:23 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+13:05:23 [WARNING] :>  
+13:05:23 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+13:05:23 [WARNING] :>  
+13:05:23 [WARNING] :>  This plugin wasn't tested to be 'working'
+13:05:23 [WARNING] :>  with ANY version of BungeeCord (and forks)
+13:05:23 [WARNING] :>  apart from the versions listed below:
+13:05:23 [WARNING] :>  
+13:05:23 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:67c65e0:1828
+13:05:23 [WARNING] :>  - Waterfall: 1.20-R0.3-SNAPSHOT:da6aaf6:572
+13:05:23 [WARNING] :>  
+13:05:23 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+13:05:23 [WARNING] :>  
+13:05:23 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+13:05:23 [WARNING] :>  
+13:05:23 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+13:05:23 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+13:05:24 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+13:05:24 [INFO] Loaded plugin EaglercraftXBungee version 1.1.0 by lax1dude
+13:05:24 [WARNING] Forced host server pvp is not defined
+13:05:24 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:05:25 [INFO] [ViaVersion] Loading block connection mappings ...
+13:05:25 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.d0d0f229ae7bd645a0eb36ba9c42d141e2344d8c.cert
+13:05:25 [INFO] [ViaBackwards] Loading translations...
+13:05:25 [INFO] [ViaBackwards] Registering protocols...
+13:05:26 [WARNING] Exception encountered when loading plugin: ViaVersion
+java.lang.NoSuchMethodError: 'void com.viaversion.viaversion.util.Config.<init>(java.io.File, java.util.logging.Logger)'
+	at com.viaversion.viarewind.ViaRewindConfig.<init>(ViaRewindConfig.java:44)
+	at com.viaversion.viarewind.api.ViaRewindPlatform.init(ViaRewindPlatform.java:44)
+	at com.viaversion.viarewind.BungeePlugin.lambda$onLoad$0(BungeePlugin.java:30)
+	at com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:114)
+	at com.viaversion.viaversion.BungeePlugin.onEnable(BungeePlugin.java:93)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:266)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:298)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+13:05:26 [INFO] Enabled plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+13:05:26 [INFO] Enabled plugin ViaRewind version 4.0.0-SNAPSHOT by null
+13:05:26 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:26 [INFO] Enabled plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:26 [INFO] Enabled plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:26 [INFO] Enabled plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:26 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:26 [INFO] Enabled plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:26 [INFO] Enabled plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+13:05:26 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+13:05:26 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+13:05:26 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+13:05:26 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+13:05:26 [INFO] Enabled plugin EaglercraftXBungee version 1.1.0 by lax1dude
+13:05:26 [INFO] Listening on /127.0.0.1:25577
+13:05:29 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42132]: Connected via websocket
+13:05:29 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42132]: Origin header is null
+13:05:29 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:42132]: Logged in as 'ThunderGod12650'
+13:05:29 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+13:05:29 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+13:14:25 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+13:14:25 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+13:14:25 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+13:15:05 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43626]: Connected via websocket
+13:15:05 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43626]: Origin header is null
+13:15:05 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:43626]: Logged in as 'ThunderGod12650'
+13:15:05 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+13:15:05 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+13:15:08 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+13:15:08 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+13:15:08 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+13:15:36 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45728]: Connected via websocket
+13:15:36 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45728]: Origin header is null
+13:15:37 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:45728]: Logged in as 'ThunderGod12650'
+13:15:37 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+13:15:37 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+13:15:57 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+13:15:57 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+13:15:57 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+13:30:04 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51014]: Connected via websocket
+13:30:04 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51014]: Origin header is null
+13:30:04 [INFO] [EaglercraftXBungee] [/[0:0:0:0:0:0:0:1%0]:51014]: Logged in as 'ThunderGod12650'
+13:30:04 [INFO] [ThunderGod12650] -> UpstreamBridge has connected
+13:30:04 [INFO] [ThunderGod12650] <-> ServerConnector [lobby] has connected
+13:30:08 [INFO] [ThunderGod12650] -> UpstreamBridge has disconnected
+13:30:08 [INFO] [ThunderGod12650] disconnected with: §f§cProxy lost connection to server.
+13:30:08 [INFO] [ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+14:51:16 [INFO] Using mbed TLS based native cipher.
+14:51:16 [INFO] Using zlib based native compressor.
+14:51:16 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.20-R0.3-SNAPSHOT:18eae8a:1842
+14:51:16 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+14:51:16 [INFO] Epoll is working, utilising it!
+14:51:17 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+
+14:51:17 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+
+14:51:17 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+
+14:51:17 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+
+14:51:17 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+
+14:51:17 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+
+14:51:18 [WARNING] [ViaVersion] ViaVersion does not work as intended across many different server versions, especially the more recent ones. Consider moving Via plugins to your backend server or switching to Velocity.
+14:51:18 [INFO] Loaded plugin ViaVersion version 4.10.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+14:51:18 [INFO] Loaded plugin ViaBackwards version 4.10.2 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+14:51:18 [INFO] Loaded plugin ViaRewind version 4.0.0-SNAPSHOT by null
+14:51:18 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+14:51:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+14:51:18 [INFO] Loaded plugin cmd_kick version git:cmd_kick:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+14:51:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+14:51:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+14:51:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+14:51:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.20-R0.3-SNAPSHOT:18eae8a:1842 by SpigotMC
+14:51:18 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+14:51:18 [WARNING] :>  
+14:51:18 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+14:51:18 [WARNING] :>  
+14:51:18 [WARNING] :>  This plugin wasn't tested to be 'working'
+14:51:18 [WARNING] :>  with ANY version of BungeeCord (and forks)
+14:51:18 [WARNING] :>  apart from the versions listed below:
+14:51:18 [WARNING] :>  
+14:51:18 [WARNING] :>  - BungeeCord: 1.20-R0.3-SNAPSHOT:67c65e0:1828
+14:51:18 [WARNING] :>  - Waterfall: 1.20-R0.3-SNAPSHOT:da6aaf6:572
+14:51:18 [WARNING] :>  
+14:51:18 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+14:51:18 [WARNING] :>  
+14:51:18 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+14:51:18 [WARNING] :>  
+14:51:18 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+14:51:18 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+14:51:23 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+14:51:23 [INFO] Loaded plugin EaglercraftXBungee version 1.1.0 by lax1dude
+14:51:24 [WARNING] Forced host server pvp is not defined
+14:51:24 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:51:24 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/EaglercraftX-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.d0d0f229ae7bd645a0eb36ba9c42d141e2344d8c.cert
